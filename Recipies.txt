@@ -5,4 +5,7 @@ Dal
 Pizza
 Kheer
 
+Upma
+Dosa
+
 Thank you
